@@ -1,0 +1,4 @@
+valor = input("digite um numero:")
+n = int(valor)
+triplo = n * 3
+print(triplo)
