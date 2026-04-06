@@ -1,0 +1,4 @@
+valor = input("Digite um valor: ")
+print("Tipo:", type(valor))
+numero = int(valor)
+print("Quadrado:", numero * numero
